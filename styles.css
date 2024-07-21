@@ -1,2 +1,17 @@
 
 /* Your CSS Code here. */
+#navbar{
+	list-style-type:none;
+	background-color:yellowgreen
+	
+}
+ul{
+	list-style-type:none;
+	display:flex;
+	justify-content:space-around
+}
+
+#image{
+	width:500px;
+	
+}
